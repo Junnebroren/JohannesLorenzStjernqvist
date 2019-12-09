@@ -5,8 +5,9 @@ public class Math {
         return first + second;
     }
 }
-    public class sub {
-        public int sub(int first, int second) {
-            return first+second;
-        }
+
+public class sub {
+    public int sub(int Kalle, int Palle) {
+        return Kalle+Palle;
     }
+}
